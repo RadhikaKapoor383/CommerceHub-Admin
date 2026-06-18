@@ -11,6 +11,16 @@ node_modules
 dist
 dist-ssr
 *.local
+.env
+.env.*.local
+.node-version
+.npmrc
+.yarnrc
+.pnpmfile.cjs
+lerna.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
 
 # Editor directories and files
 .vscode/*
