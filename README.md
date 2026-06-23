@@ -22,29 +22,29 @@ The project focuses on creating reusable UI components, efficient data managemen
 
 ## Features
 
-* Product Management
-* Order Management
-* Customer Management
-* Sales Analytics Dashboard
-* Revenue & Performance Metrics
-* Inventory Tracking
-* Settings Management
-* Fully Responsive Design
-* Modern Dashboard UI
-* Search and Filtering Functionality
+* Product Management.
+* Order Management.
+* Customer Management.
+* Sales Analytics Dashboard.
+* Revenue & Performance Metrics.
+* Inventory Tracking.
+* Settings Management.
+* Fully Responsive Design.
+* Modern Dashboard UI.
+* Search and Filtering Functionality.
 
 ---
 
 ## Tech Stack
 
-* React.js
-* JavaScript (ES6)
-* HTML5
-* CSS3
-* Responsive Design
-* React Components
-* Chart Libraries
-* Local Storage / Mock Data
+* React.js.
+* JavaScript (ES6).
+* HTML5.
+* CSS3.
+* Responsive Design.
+* React Components.
+* Chart Libraries.
+* Local Storage / Mock Data.
 
 ---
 
